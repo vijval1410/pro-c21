@@ -1,2 +1,2 @@
-# pro-c21
-this is the class 21 project
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
